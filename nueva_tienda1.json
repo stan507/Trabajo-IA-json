@@ -1,5 +1,5 @@
 {
-  "row 1": {
+  {
     "IsHoliday": 0,
     "Dept": 55,
     "Temperature": 18,
@@ -9,7 +9,7 @@
     "Type": 2,
     "Size": 128107
   },
-  "row 2": {
+  {
     "IsHoliday": 1,
     "Dept": 58,
     "Temperature": 15,
