@@ -1,3 +1,3 @@
-{"row 1":{"IsHoliday":0,"Dept":55,"Temperature":18,"Fuel_Price":2.682,"CPI":132.9172,"Unemployment":8.567,"Type":2,"Size":128107},
+'{"row 1":{"IsHoliday":0,"Dept":55,"Temperature":18,"Fuel_Price":2.682,"CPI":132.9172,"Unemployment":8.567,"Type":2,"Size":128107},
 "row 2":{"IsHoliday":1,"Dept":58,"Temperature":15,"Fuel_Price":2.452,"CPI":152.9172,"Unemployment":8.547,"Type":3,"Size":128227}
-}
+}'
