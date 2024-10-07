@@ -1,28 +1,30 @@
-{
+[
   {
-    "Dept":45,
-    "Temperature":39.35,
-    "Fuel_Price":3.882,
-    "CPI":192.356461,
-  "Unemployment":8.108,
-  "Type":3,"Size":151315,
-  "Event_Type_Christmas":0,
-  "Event_Type_Labour Day":0,
-  "Event_Type_Normal":0,
-  "Event_Type_Super Bowl":1,
-  "Event_Type_Thanksgiving":0
-},
-{
-  "Dept":44,
-    "Temperature":38.35,
-    "Fuel_Price":3.782,
-    "CPI":182.356461,
-  "Unemployment":8.158,
-  "Type":3,"Size":151215,
-  "Event_Type_Christmas":1,
-  "Event_Type_Labour Day":0,
-  "Event_Type_Normal":0,
-  "Event_Type_Super Bowl":0,
-  "Event_Type_Thanksgiving":0
-}
-}
+    "Dept": 45,
+    "Temperature": 39.35,
+    "Fuel_Price": 3.882,
+    "CPI": 192.356461,
+    "Unemployment": 8.108,
+    "Type": 3,
+    "Size": 151315,
+    "Event_Type_Christmas": 0,
+    "Event_Type_Labour Day": 0,
+    "Event_Type_Normal": 0,
+    "Event_Type_Super Bowl": 1,
+    "Event_Type_Thanksgiving": 0
+  },
+  {
+    "Dept": 44,
+    "Temperature": 38.35,
+    "Fuel_Price": 3.782,
+    "CPI": 182.356461,
+    "Unemployment": 8.158,
+    "Type": 3,
+    "Size": 151215,
+    "Event_Type_Christmas": 1,
+    "Event_Type_Labour Day": 0,
+    "Event_Type_Normal": 0,
+    "Event_Type_Super Bowl": 0,
+    "Event_Type_Thanksgiving": 0
+  }
+]
