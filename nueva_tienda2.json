@@ -1,4 +1,4 @@
-[
+{
   {
     "Dept": 45,
     "Temperature": 39.35,
@@ -27,4 +27,4 @@
     "Event_Type_Super Bowl": 0,
     "Event_Type_Thanksgiving": 0
   }
-]
+}
